@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height:100vh;
+}
+
+.wrapper{
+    height: 500px;
+    width:450px;
+}
+
+.wrapper img{
+    height: 500px;
+    width: 100%;
+    margin-top: -50px;
+}
+.wrapper #onn{
+    opacity: 0;
+}
+
+#Textonn{
+    color: black;
+    position: absolute;
+    margin-bottom: 700px;
+}
